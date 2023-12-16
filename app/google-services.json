@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813555286764",
+    "project_id": "ustandroidfirebaseapp",
+    "storage_bucket": "ustandroidfirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813555286764:android:ac3cc2bd6f9ffa398d1bc9",
+        "android_client_info": {
+          "package_name": "com.markio.ustandroidfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDseax5GNwy9TUxATbTzbsOKFC8TIGqmo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
